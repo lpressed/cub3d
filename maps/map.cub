@@ -1,0 +1,28 @@
+      
+   EA    ./textures/redbrick.xpm 
+S    ./textures/12_blue_urn.xpm         
+  
+   R    1024       720        
+
+   NO      ./textures/bluestone.xpm
+SO ./textures/mossy.xpm
+          
+WE ./textures/greystone.xpm
+
+
+
+  F      255,  255,   255    
+
+
+  C      0  ,   0,    0     
+
+
+
+
+1111111
+10000221
+1000221
+10W0221
+1000001
+1010001
+1111111
